@@ -1,0 +1,3 @@
+{
+  "terminal.integrated.commandsToSkipShell": ["\"liveshare.guestApprovalRequired\": true"]
+}
